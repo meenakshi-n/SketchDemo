@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.ArrayList;
 
 public class Figure {
-	public final int numIters = 1;
+	public final int numIters = 10;
 	
 	// Variable list of strokes for 10 iterations of each number
 	private List<ArrayList<Stroke>> strokes;
